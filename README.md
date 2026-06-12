@@ -3,7 +3,7 @@
 ## Team Members
 
 - Haowen Peng
-- Ayou
+- Aayou
 
 ## Topic Summary
 
