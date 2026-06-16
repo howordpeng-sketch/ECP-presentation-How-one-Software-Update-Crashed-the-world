@@ -22,5 +22,5 @@ A faulty software update caused millions of Windows systems worldwide to crash, 
 - Slide Design and layout
 - Video Recording and Narration
 
-## [YouTube Video](https://youtu.be/fNAGsLh3zNQ?si=S_RLvKOfg0CMP-IT)
+## [YouTube Video]https://youtu.be/BRIaMpfyih8?si=OllpUNAmWR9bO-mk
 
